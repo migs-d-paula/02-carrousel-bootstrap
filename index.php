@@ -8,6 +8,8 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
 
+    <link rel="stylesheet" href="css/style.css">
+    
     <title>  :: Carousel - Bootstrap ::</title>
 </head>
 <body>
@@ -48,6 +50,31 @@
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
         </button>
+    </div>
+</body>
+<body>
+    <div class="noticia">
+        <div class="noticia-imagem">
+            <img src="images/pequeno.png" alt="">
+        </div>
+        <div class="noticia-titulo">
+            <p> Turma A2022 de TI do Senac se forma em novembro de 2023 </p>
+        </div>
+        <div class="noticia-descricao">
+            <p> depois de passarem por diversos conteudos irão se formar finalmente </p>
+        </div>
+    </div>
+
+    <div class="noticia">
+        <div class="noticia-imagem">
+            <img src="images/carro.png" alt="">
+        </div>
+        <div class="noticia-titulo">
+            <p> Carros estao tomando vida em 2023 </p>
+        </div>
+        <div class="noticia-descricao">
+            <p> Os carros estao ganhando vida em 2023, tudo começou com herbie e o cometa Harlem. </p>
+        </div>
     </div>
 </body>
 </html>
